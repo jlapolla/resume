@@ -2,8 +2,39 @@
 
 ###What kinds of projects do you work on?
 
-###What do you focus on when you approach a new project?
+###How do you approach a new project? Walk me through the process.
 
-First and foremost: stakeholder engagement. Ultimately, we're here to
-solve a problem. Heavy stakeholder engagement is key for crafting a
-solution that is relevant to the user and effective in the field.
+I start off with a round of stakeholder interviews to understand the
+problem and the scope of the desired solution. During these interviews I
+don't focus on a particular proposed solution. Anything is possible at
+this point in the project.
+
+Once I have a grasp of the problem and scope, I have a second round of
+interviews to develop a user experience that matches how each type of
+user user thinks about their work. In these interviews, we walk through
+a quick mock up of the proposed solution. Typically this mock up is a
+slide show where each screen that the user would see when working
+through a use case. The UI mock ups are helpful for sparking
+conversation, and getting users to really think about exactly how they'd
+like to interact with the solution.
+
+by interviewing stakeholders to understand the problem. In
+this first round of interviews, I focus only on the problem and I
+discourage in-depth discussion of potential solutions. Phrasing things
+in terms of problems rather than solutions prevents me from "falling in
+love" with a solution.
+
+I start off with a lot of interactive interviews. After initial
+requirements elicitation, I like to move to a fast UI mock up that
+illustrates the flow of the application for various use cases. This
+first mock up is just a PowerPoint presentation where each slide shows
+the next screen that the user would see. I don't get fancy with this,
+since it's critical to iterate quickly in this phase. We have a lot of
+ground to cover, and we expect a lot of changes, so there's no return on
+investment for putting time into making the slide mock ups look sexy.
+
+First and foremost: stakeholder engagement is key. Heavy stakeholder
+engagement is key for crafting a solution that is relevant to the user
+and effective in the field.
+
+###How do you approach database design?
